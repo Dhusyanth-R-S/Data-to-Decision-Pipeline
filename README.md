@@ -8,8 +8,9 @@ LinkedIn: www.linkedin.com/in/dhusyanth-r-s-
 
 Email: dhusyanthrs3@gmail.com
 
+------------------------------------------------
 Project Background: The Data-to-Decision Pipeline
-=================================================
+------------------------------------------
 
 Global Superstore is a fictional e-commerce company with vast global transactional data. This project thoroughly analyzes and synthesizes the data to uncover critical insights that will drive commercial success, optimize operational efficiency, and maximize profitability.
 
@@ -40,6 +41,7 @@ Tools and Purpose of the project :
 ---------------------------------
 
 1. Python (Pandas)
+-------------------
 
 Process: Data Engineering
 Purpose: Responsible for cleaning, performing data type conversion, and executing the Star Schema normalization of the raw data.
