@@ -20,7 +20,8 @@ Data Structure and Transformation
 Global Superstore's data spans over 50,000 records, initially contained within a single flat wide table at the transaction granularity. I performed the complete data normalization, moving from this raw state to an efficient Star Schema model linked by foreign keys, ensuring data integrity and OLAP readiness.
 
 
-<img width="469" height="467" alt="Star Schema Image Pipeline" src="https://github.com/user-attachments/assets/f0b665c8-bf2b-4a15-9024-f294585ac263" />
+<img width="469" height="284" alt="Star Schema Image Pipeline" src="https://github.com/user-attachments/assets/5519757b-e183-4fe2-abfd-c2090e9e9d43" />
+
 
 
 
