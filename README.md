@@ -5,16 +5,19 @@ Project Background: The Data-to-Decision Pipeline
 Global Superstore is a fictional e-commerce company with vast global transactional data. This project thoroughly analyzes and synthesizes the data to uncover critical insights that will drive commercial success, optimize operational efficiency, and maximize profitability.
 
 Key Analytical Areas
+--------------------
 
-	Sales Masking Profits: Revealing where high revenue disguises underlying profit issues. 
-	
-	Sales Trend Analysis: Evaluating global and regional historical patterns, incorporating Profit and Logistical Risk Index (LRI %). 
-	
-	Product Performance: Categorical and granular analysis of profit margins versus discount rates. 
-	
-	Regional Investment Strategy: Providing concise, data-driven recommendations on resource allocation and divestment across global markets. 
+Sales Masking Profits: Revealing where high revenue disguises underlying profit issues. 
+
+Sales Trend Analysis: Evaluating global and regional historical patterns, incorporating Profit and Logistical Risk Index (LRI %). 
+
+Product Performance: Categorical and granular analysis of profit margins versus discount rates. 
+
+Regional Investment Strategy: Providing concise, data-driven recommendations on resource allocation and divestment across global markets. 
+
 
 Data Structure and Transformation
+---------------------------------
 
 Global Superstore's data spans over 50,000 records, initially contained within a single flat wide table at the transaction granularity. I performed the complete data normalization, moving from this raw state to an efficient Star Schema model linked by foreign keys, ensuring data integrity and OLAP readiness.
 
@@ -25,9 +28,7 @@ Global Superstore's data spans over 50,000 records, initially contained within a
 
 
 Tools and Purpose of the project :
-
-
-Project Pipeline Breakdown by Tool
+---------------------------------
 
 1. Python (Pandas)
 
@@ -51,6 +52,7 @@ Purpose: Provides interactive visualization and narrative-driven reporting to co
 
 
 Executive Summary: Overview of Critical Findings
+------------------------------------------------
 
 1. Logistics Leak: The Cost of Speed
 
@@ -104,8 +106,9 @@ The interactive PowerBI dashboard with much more details in depth can be downloa
 
 
 Apart from this, 13 effective business reports has been done using SQL (MySQL)
-	
-	These queries performs perfect business analysis and get us know what is happening beyond simple analysis
+------------------------------------------------------------------------------
+
+These queries performs perfect business analysis and get us know what is happening beyond simple analysis
 
 1. Product Profitability Ranking:
 	 Top 10 Products: Sales vs. Profit Margin Rank
@@ -146,6 +149,8 @@ Apart from this, 13 effective business reports has been done using SQL (MySQL)
 13. Above/Below Average Profitability:
 	 Order Profit Margin vs. Category Average
 
+Files :
+-----
 
 The raw file used for the project can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Global_Superstore_Raw_file.csv)
 
