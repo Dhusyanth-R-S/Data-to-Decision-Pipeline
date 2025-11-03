@@ -89,9 +89,9 @@ Recommendation: This highlights the critical need for continuous, granular margi
 <img width="567" height="171" alt="Screenshot 2025-11-03 174026" src="https://github.com/user-attachments/assets/d2e322f9-ec3a-4d5b-a821-8bc8ce1ee156" />
 
 
-
+-----------------------------------
 4. Strategic Regional Investment
---------------------------------
+
 
 Insight: Investment initiatives outside capital cities are yielding exceptional results. For example, the city of Hamburg drives 150% more profit than Berlin, despite generating only 65% of Berlin's sales amount, indicating superior operational efficiency and pricing outside the main hub.
 
@@ -101,9 +101,8 @@ Recommendation: Double down on investment and logistical support in these highly
 <img width="1009" height="403" alt="Screenshot 2025-11-03 173629" src="https://github.com/user-attachments/assets/56b879fc-a8d5-4579-acf8-c3e4d38dc73e" />
 
 
-
-5. Global Sales Trend & Customer Loyalty
 -----------------------------------------
+5. Global Sales Trend & Customer Loyalty
 
 Sales Trend: The company exhibits a smooth, reliable global sales seasonality, consistently starting the year with low volume and peaking toward the final quarter. This pattern has been stable over the four-year dataset.
 
