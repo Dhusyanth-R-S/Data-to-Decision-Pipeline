@@ -94,7 +94,7 @@ Insight: Investment initiatives outside capital cities are yielding exceptional 
 Recommendation: Double down on investment and logistical support in these highly efficient, second-tier cities to sustain hyper-profitable growth.
 
 
-<img width="1186" height="462" alt="Screenshot 2025-11-03 165709" src="https://github.com/user-attachments/assets/09fa1595-5479-4fd4-a696-9ad265be3144" />
+<img width="1009" height="398" alt="Screenshot 2025-11-03 173357" src="https://github.com/user-attachments/assets/c9475d14-a489-4b03-9b76-444c94f3544d" />
 
 
 
