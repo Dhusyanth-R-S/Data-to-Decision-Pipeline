@@ -31,12 +31,12 @@ Global Superstore's data spans over 50,000 records, initially contained within a
 Tools and Purpose of the project :
 ---------------------------------
 
-1. Python (Pandas)
+### Python (Pandas)
 
 Process: Data Engineering
 Purpose: Responsible for cleaning, performing data type conversion, and executing the Star Schema normalization of the raw data.
 
-2. SQL (DDL & Advanced Queries)
+### SQL (DDL & Advanced Queries)
 
 Process: Database Integrity
 Purpose: Defines and enforces constraints (Primary Keys/Foreign Keys) and integrity rules to ensure data quality and optimize the structure for Online Analytical Processing (OLAP).
@@ -44,7 +44,7 @@ Purpose: Defines and enforces constraints (Primary Keys/Foreign Keys) and integr
 Process: Analytical Queries
 Purpose: Executes key business questions and metrics using complex join operations and advanced Window Functions (e.g., LAG, NTILE, RANK).
 
-3. Power BI (Report & Storytelling)
+### Power BI (Report & Storytelling)
 
 Process: Final Storytelling
 Purpose: Provides interactive visualization and narrative-driven reporting to communicate the analytical insights and the complete story. 
