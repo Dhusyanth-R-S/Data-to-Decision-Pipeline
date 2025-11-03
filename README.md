@@ -71,7 +71,8 @@ Insight: Approximately 13% of the company's total profit is consumed by shipping
 
 Recommendation: Limit 'Same Day Delivery' availability exclusively to high-density locations where cost-to-deliver is verifiably lower, preserving crucial profit margins.
 
-<img width="537" height="214" alt="Screenshot 2025-11-03 165408" src="https://github.com/user-attachments/assets/383d79bf-5056-4d1a-994f-7893c0ff6cfc" />
+<img width="462" height="147" alt="Screenshot 2025-11-03 173859" src="https://github.com/user-attachments/assets/55c0a284-6076-43cf-85f5-71e6291a9837" />
+
 
 2. Sales Masking Profit
 
@@ -84,7 +85,8 @@ Insight: Even the successful 'Technology' category leads the company's sales and
 Recommendation: This highlights the critical need for continuous, granular margin analysis to immediately flag and address severely underperforming SKUs.
 
 
-<img width="671" height="224" alt="Screenshot 2025-11-03 165547" src="https://github.com/user-attachments/assets/c6316159-d045-4d2b-95de-8b8445695f36" />
+<img width="567" height="171" alt="Screenshot 2025-11-03 174026" src="https://github.com/user-attachments/assets/d2e322f9-ec3a-4d5b-a821-8bc8ce1ee156" />
+
 
 
 4. Strategic Regional Investment
@@ -94,7 +96,7 @@ Insight: Investment initiatives outside capital cities are yielding exceptional 
 Recommendation: Double down on investment and logistical support in these highly efficient, second-tier cities to sustain hyper-profitable growth.
 
 
-<img width="1009" height="398" alt="Screenshot 2025-11-03 173357" src="https://github.com/user-attachments/assets/c9475d14-a489-4b03-9b76-444c94f3544d" />
+<img width="1009" height="403" alt="Screenshot 2025-11-03 173629" src="https://github.com/user-attachments/assets/56b879fc-a8d5-4579-acf8-c3e4d38dc73e" />
 
 
 
