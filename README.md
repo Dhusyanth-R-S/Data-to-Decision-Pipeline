@@ -33,31 +33,19 @@ Project Pipeline Breakdown by Tool
 1. Python (Pandas)
 
 Process: Data Engineering
-
-File : [Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb)
-
 Purpose: Responsible for cleaning, performing data type conversion, and executing the Star Schema normalization of the raw data.
 
 2. SQL (DDL & Advanced Queries)
 
 Process: Database Integrity
-
-File:[Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql)
-
 Purpose: Defines and enforces constraints (Primary Keys/Foreign Keys) and integrity rules to ensure data quality and optimize the structure for Online Analytical Processing (OLAP).
 
 Process: Analytical Queries
-
-File:[Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_Queries.sql)
-
 Purpose: Executes key business questions and metrics using complex join operations and advanced Window Functions (e.g., LAG, NTILE, RANK).
 
 3. Power BI (Report & Storytelling)
 
 Process: Final Storytelling
-
-File:[Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
-
 Purpose: Provides interactive visualization and narrative-driven reporting to communicate the analytical insights and the complete story. 
 
 
