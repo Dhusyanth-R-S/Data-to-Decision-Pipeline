@@ -1,12 +1,5 @@
 The Data-to-Decision Pipeline: Transforming Global Superstore's Transactions
 -----------------------------
-About the Author
-----------------
-Name: Dhusyanth R S
-
-LinkedIn: www.linkedin.com/in/dhusyanth-r-s-
-
-Email: dhusyanthrs3@gmail.com
 
 ------------------------------------------------
 Project Background: The Data-to-Decision Pipeline
@@ -181,15 +174,21 @@ To run this pipeline and replicate the analysis locally, follow these steps:
 
 Database Setup:
 
-Create a MySQL database named pipeline. Run (https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql) file to create the necessary dimension and fact tables.
+Create a MySQL database named pipeline. Run [SQL table setup file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql) file to create the necessary dimension and fact tables.
 
 ETL Process: 
 
-Open the pandas_pipeline_1.ipynb notebook. Update the database connection string (username/password/host), and run the cells to clean the data and load it into the MySQL tables.
+Open the [Pandas file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb) Update the database connection string (username/password/host), and run the cells to clean the data and load it into the MySQL tables.
 
 Run Analysis:
 
-Execute the queries in the SQL Query Pipeline.sql file against your populated database.
+Execute the queries in the [sql queries file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_Queries.sql) against your populated database.
 
+About the Author
+----------------
+Name: Dhusyanth R S
 
+LinkedIn: www.linkedin.com/in/dhusyanth-r-s-
+
+Email: dhusyanthrs3@gmail.com
 
