@@ -41,7 +41,6 @@ Tools and Purpose of the project :
 ---------------------------------
 
 1. Python (Pandas)
--------------------
 
 Process: Data Engineering
 Purpose: Responsible for cleaning, performing data type conversion, and executing the Star Schema normalization of the raw data.
@@ -66,6 +65,7 @@ Executive Summary: Overview of Critical Findings
 ------------------------------------------------
 
 1. Logistics Leak: The Cost of Speed
+-------------------------------------
 
 Insight: Approximately 13% of the company's total profit is consumed by shipping costs, primarily driven by the 'Same Day Delivery' option.
 
@@ -75,10 +75,12 @@ Recommendation: Limit 'Same Day Delivery' availability exclusively to high-densi
 
 
 2. Sales Masking Profit
+------------------------
 
 Insight: Despite leading the market in sales volume, the 'Furniture' category generates less than half the profit margin of the 'Office Supplies' category. High revenue is aggressively masking underlying profitability issues.
 
 3. Profit Margin Anchors (Product Granularity)
+-----------------------------------------------
 
 Insight: Even the successful 'Technology' category leads the company's sales and profits, products like 'Cubify CubeX 3D Printer Double Head Print,' which alone caused a staggering $9,000 USD loss more than any other product by biggest margin in loses. 
 
@@ -90,6 +92,7 @@ Recommendation: This highlights the critical need for continuous, granular margi
 
 
 4. Strategic Regional Investment
+--------------------------------
 
 Insight: Investment initiatives outside capital cities are yielding exceptional results. For example, the city of Hamburg drives 150% more profit than Berlin, despite generating only 65% of Berlin's sales amount, indicating superior operational efficiency and pricing outside the main hub.
 
@@ -101,6 +104,7 @@ Recommendation: Double down on investment and logistical support in these highly
 
 
 5. Global Sales Trend & Customer Loyalty
+-----------------------------------------
 
 Sales Trend: The company exhibits a smooth, reliable global sales seasonality, consistently starting the year with low volume and peaking toward the final quarter. This pattern has been stable over the four-year dataset.
 
