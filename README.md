@@ -175,6 +175,21 @@ The file of 13 Business queries can be downloaded [here](https://github.com/Dhus
 
 The interactive Dashboard with complete story can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
 
+----------------------------------------------------------------------------
+To run this pipeline and replicate the analysis locally, follow these steps:
+-----------------------------------------------------------------------------
+
+Database Setup:
+
+Create a MySQL database named pipeline. Run (https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql) file to create the necessary dimension and fact tables.
+
+ETL Process: 
+
+Open the pandas_pipeline_1.ipynb notebook. Update the database connection string (username/password/host), and run the cells to clean the data and load it into the MySQL tables.
+
+Run Analysis:
+
+Execute the queries in the SQL Query Pipeline.sql file against your populated database.
 
 
 
