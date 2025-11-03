@@ -50,7 +50,7 @@ Purpose: Provides interactive visualization and narrative-driven reporting to co
 
 
 
-
+------------------------------------------------
 Executive Summary: Overview of Critical Findings
 ------------------------------------------------
 
@@ -104,7 +104,7 @@ Recommendation: A formal Customer Loyalty Program should be established to recog
 The interactive PowerBI dashboard with much more details in depth can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
 
 
-
+------------------------------------------------------------------------------
 Apart from this, 13 effective business reports has been done using SQL (MySQL)
 ------------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ These queries performs perfect business analysis and get us know what is happeni
 
 13. Above/Below Average Profitability:
 	 Order Profit Margin vs. Category Average
-
+-----
 Files :
 -----
 
