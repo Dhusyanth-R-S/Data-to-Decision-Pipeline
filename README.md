@@ -73,7 +73,7 @@ Recommendation: Limit 'Same Day Delivery' availability exclusively to high-densi
 
 <img width="462" height="147" alt="Screenshot 2025-11-03 173859" src="https://github.com/user-attachments/assets/55c0a284-6076-43cf-85f5-71e6291a9837" />
 
-
+--
 2. Sales Masking Profit
 ------------------------
 
