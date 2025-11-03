@@ -114,7 +114,7 @@ Apart from this, 13 effective business reports has been done using SQL (MySQL)
 
 These queries performs perfect business analysis and get us know what is happening beyond simple analysis
 
-#### 1. Product Profitability Ranking:
+1. Product Profitability Ranking:
 	 Top 10 Products: Sales vs. Profit Margin Rank
 
 2. Year-over-Year (YoY) Profit Growth:
@@ -170,7 +170,7 @@ The interactive Dashboard with complete story can be downloaded [here](https://g
 To run this pipeline and replicate the analysis locally, follow these steps:
 -----------------------------------------------------------------------------
 
-Database Setup:
+#### Database Setup:
 
 Create a MySQL database named pipeline. Run [SQL table setup file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql) file to create the necessary dimension and fact tables.
 
@@ -178,7 +178,7 @@ ETL Process:
 
 Open the [Pandas file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb) Update the database connection string (username/password/host), and run the cells to clean the data and load it into the MySQL tables.
 
-Run Analysis:
+#### Run Analysis:
 
 Execute the queries in the [sql queries file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_Queries.sql) against your populated database.
 
