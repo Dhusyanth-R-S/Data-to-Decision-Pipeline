@@ -63,9 +63,8 @@ Purpose: Provides interactive visualization and narrative-driven reporting to co
 ------------------------------------------------
 Executive Summary: Overview of Critical Findings
 ------------------------------------------------
-
+------------------------------------
 1. Logistics Leak: The Cost of Speed
--------------------------------------
 
 Insight: Approximately 13% of the company's total profit is consumed by shipping costs, primarily driven by the 'Same Day Delivery' option.
 
@@ -79,8 +78,8 @@ Recommendation: Limit 'Same Day Delivery' availability exclusively to high-densi
 
 Insight: Despite leading the market in sales volume, the 'Furniture' category generates less than half the profit margin of the 'Office Supplies' category. High revenue is aggressively masking underlying profitability issues.
 
+----------------------------------------------
 3. Profit Margin Anchors (Product Granularity)
------------------------------------------------
 
 Insight: Even the successful 'Technology' category leads the company's sales and profits, products like 'Cubify CubeX 3D Printer Double Head Print,' which alone caused a staggering $9,000 USD loss more than any other product by biggest margin in loses. 
 
