@@ -1,5 +1,5 @@
 The Data-to-Decision Pipeline: Transforming Global Superstore's Transactions
------------------------------
+#############################################################################
 
 ------------------------------------------------
 Project Background: The Data-to-Decision Pipeline
