@@ -73,9 +73,9 @@ Recommendation: Limit 'Same Day Delivery' availability exclusively to high-densi
 
 <img width="462" height="147" alt="Screenshot 2025-11-03 173859" src="https://github.com/user-attachments/assets/55c0a284-6076-43cf-85f5-71e6291a9837" />
 
---
+-----------------------
 2. Sales Masking Profit
-------------------------
+
 
 Insight: Despite leading the market in sales volume, the 'Furniture' category generates less than half the profit margin of the 'Office Supplies' category. High revenue is aggressively masking underlying profitability issues.
 
