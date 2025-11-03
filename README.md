@@ -1,4 +1,5 @@
 The Data-to-Decision Pipeline
+-----------------------------
 
 Project Background: The Data-to-Decision Pipeline 
 
@@ -15,7 +16,7 @@ Product Performance: Categorical and granular analysis of profit margins versus 
 
 Regional Investment Strategy: Providing concise, data-driven recommendations on resource allocation and divestment across global markets. 
 
-
+---------------------------------
 Data Structure and Transformation
 ---------------------------------
 
@@ -100,7 +101,7 @@ Recommendation: A formal Customer Loyalty Program should be established to recog
 
 <img width="498" height="342" alt="image" src="https://github.com/user-attachments/assets/a34c755c-5c2f-41e4-81b4-1abd496338b0" />
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------
 The interactive PowerBI dashboard with much more details in depth can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
 
 
@@ -156,7 +157,7 @@ The raw file used for the project can be downloaded [here](https://github.com/Dh
 
 The Pandas(Python) code for setting up that data for a next levela analysis can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb)
 
-The SQL table set up (Data Integrety ) can be found downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql)
+The SQL table set up (Data Integrety ) can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql)
 
 The file of 13 Business queries can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_Queries.sql)
 
