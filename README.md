@@ -1,4 +1,4 @@
-#The Data-to-Decision Pipeline: Transforming Global Superstore's Transactions
+# The Data-to-Decision Pipeline: Transforming Global Superstore's Transactions
 
 
 ------------------------------------------------
