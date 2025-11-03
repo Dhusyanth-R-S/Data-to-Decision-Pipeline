@@ -6,10 +6,10 @@ Global Superstore is a fictional e-commerce company with vast global transaction
 
 Key Analytical Areas
 
-Sales Masking Profits: Revealing where high revenue disguises underlying profit issues.
-Sales Trend Analysis: Evaluating global and regional historical patterns, incorporating Profit and Logistical Risk Index (LRI %).
-Product Performance: Categorical and granular analysis of profit margins versus discount rates.
-Regional Investment Strategy: Providing concise, data-driven recommendations on resource allocation and divestment across global markets.
+Sales Masking Profits: Revealing where high revenue disguises underlying profit issues. 
+Sales Trend Analysis: Evaluating global and regional historical patterns, incorporating Profit and Logistical Risk Index (LRI %). 
+Product Performance: Categorical and granular analysis of profit margins versus discount rates. 
+Regional Investment Strategy: Providing concise, data-driven recommendations on resource allocation and divestment across global markets. 
 
 Data Structure and Transformation
 
