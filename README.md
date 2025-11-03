@@ -26,12 +26,12 @@ Global Superstore's data spans over 50,000 records, initially contained within a
 
 
 
-
+---------------------------------
 Tools and Purpose of the project :
 ---------------------------------
 
 1. Python (Pandas)
-------------------
+
 Process: Data Engineering
 Purpose: Responsible for cleaning, performing data type conversion, and executing the Star Schema normalization of the raw data.
 
