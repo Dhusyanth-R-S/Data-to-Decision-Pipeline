@@ -55,7 +55,7 @@ Purpose: Provides interactive visualization and narrative-driven reporting to co
 Executive Summary: Overview of Critical Findings
 ------------------------------------------------
 ------------------------------------
-1. Logistics Leak: The Cost of Speed
+### 1. Logistics Leak: The Cost of Speed
 
 Insight: Approximately 13% of the company's total profit is consumed by shipping costs, primarily driven by the 'Same Day Delivery' option.
 
@@ -64,13 +64,13 @@ Recommendation: Limit 'Same Day Delivery' availability exclusively to high-densi
 <img width="462" height="147" alt="Screenshot 2025-11-03 173859" src="https://github.com/user-attachments/assets/55c0a284-6076-43cf-85f5-71e6291a9837" />
 
 -----------------------
-2. Sales Masking Profit
+### 2. Sales Masking Profit
 
 
 Insight: Despite leading the market in sales volume, the 'Furniture' category generates less than half the profit margin of the 'Office Supplies' category. High revenue is aggressively masking underlying profitability issues.
 
 ----------------------------------------------
-3. Profit Margin Anchors (Product Granularity)
+### 3. Profit Margin Anchors (Product Granularity)
 
 Insight: Even the successful 'Technology' category leads the company's sales and profits, products like 'Cubify CubeX 3D Printer Double Head Print,' which alone caused a staggering $9,000 USD loss more than any other product by biggest margin in loses. 
 
@@ -81,7 +81,7 @@ Recommendation: This highlights the critical need for continuous, granular margi
 
 
 -----------------------------------
-4. Strategic Regional Investment
+### 4. Strategic Regional Investment
 
 
 Insight: Investment initiatives outside capital cities are yielding exceptional results. For example, the city of Hamburg drives 150% more profit than Berlin, despite generating only 65% of Berlin's sales amount, indicating superior operational efficiency and pricing outside the main hub.
@@ -93,7 +93,7 @@ Recommendation: Double down on investment and logistical support in these highly
 
 
 -----------------------------------------
-5. Global Sales Trend & Customer Loyalty
+### 5. Global Sales Trend & Customer Loyalty
 
 Sales Trend: The company exhibits a smooth, reliable global sales seasonality, consistently starting the year with low volume and peaking toward the final quarter. This pattern has been stable over the four-year dataset.
 
@@ -114,7 +114,7 @@ Apart from this, 13 effective business reports has been done using SQL (MySQL)
 
 These queries performs perfect business analysis and get us know what is happening beyond simple analysis
 
-1. Product Profitability Ranking:
+#### 1. Product Profitability Ranking:
 	 Top 10 Products: Sales vs. Profit Margin Rank
 
 2. Year-over-Year (YoY) Profit Growth:
