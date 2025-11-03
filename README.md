@@ -34,7 +34,7 @@ Project Pipeline Breakdown by Tool
 
 Process: Data Engineering
 
-File : [Click](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb)
+File : [Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb)
 
 Purpose: Responsible for cleaning, performing data type conversion, and executing the Star Schema normalization of the raw data.
 
@@ -42,13 +42,13 @@ Purpose: Responsible for cleaning, performing data type conversion, and executin
 
 Process: Database Integrity
 
-File Reference: SQL table creation.sql
+File:[Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql)
 
 Purpose: Defines and enforces constraints (Primary Keys/Foreign Keys) and integrity rules to ensure data quality and optimize the structure for Online Analytical Processing (OLAP).
 
 Process: Analytical Queries
 
-File Reference: SQL Query Pipeline.sql
+File:[Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_Queries.sql)
 
 Purpose: Executes key business questions and metrics using complex join operations and advanced Window Functions (e.g., LAG, NTILE, RANK).
 
@@ -56,7 +56,7 @@ Purpose: Executes key business questions and metrics using complex join operatio
 
 Process: Final Storytelling
 
-File Reference: Powerbi_Pipeline_project.pbix
+File:[Click here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
 
 Purpose: Provides interactive visualization and narrative-driven reporting to communicate the analytical insights and the complete story. 
 
@@ -112,7 +112,7 @@ Recommendation: A formal Customer Loyalty Program should be established to recog
 <img width="498" height="342" alt="image" src="https://github.com/user-attachments/assets/a34c755c-5c2f-41e4-81b4-1abd496338b0" />
 
 
-The interactive PowerBI dashboard with much more details in depth can be downloaded here .[link]
+The interactive PowerBI dashboard with much more details in depth can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
 
 
 
@@ -160,15 +160,15 @@ Apart from this, 13 effective business reports has been done using SQL (MySQL)
 	 Order Profit Margin vs. Category Average
 
 
-The raw file used for the project can be downloaded [here]
+The raw file used for the project can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Global_Superstore_Raw_file.csv)
 
-The Pandas(Python) code for setting up that data for a next levela analysis can be downloaded [here]
+The Pandas(Python) code for setting up that data for a next levela analysis can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb)
 
-The SQL table set up (Data Integrety ) can be found downloaded [here]
+The SQL table set up (Data Integrety ) can be found downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql)
 
-The file of 13 Business queries can be downloaded [here]
+The file of 13 Business queries can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_Queries.sql)
 
-The interactive Dashboard with complete story can be downloaded [here]
+The interactive Dashboard with complete story can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
 
 
 
