@@ -61,7 +61,8 @@ Insight: Approximately 13% of the company's total profit is consumed by shipping
 
 Recommendation: Limit 'Same Day Delivery' availability exclusively to high-density locations where cost-to-deliver is verifiably lower, preserving crucial profit margins.
 
-<img width="462" height="147" alt="Screenshot 2025-11-03 173859" src="https://github.com/user-attachments/assets/55c0a284-6076-43cf-85f5-71e6291a9837" />
+<img width="635" height="190" alt="Screenshot 2025-11-04 160445" src="https://github.com/user-attachments/assets/3c5e5863-fae7-422d-8398-b7fda2973ffc" />
+
 
 -----------------------
 ### 2. Sales Masking Profit
@@ -76,8 +77,8 @@ Insight: Even the successful 'Technology' category leads the company's sales and
 
 Recommendation: This highlights the critical need for continuous, granular margin analysis to immediately flag and address severely underperforming SKUs.
 
+<img width="940" height="316" alt="Screenshot 2025-11-04 160121" src="https://github.com/user-attachments/assets/59b613b8-0959-4a11-b62e-e8bc6a97cbac" />
 
-<img width="567" height="171" alt="Screenshot 2025-11-03 174026" src="https://github.com/user-attachments/assets/d2e322f9-ec3a-4d5b-a821-8bc8ce1ee156" />
 
 
 -----------------------------------
@@ -89,7 +90,8 @@ Insight: Investment initiatives outside capital cities are yielding exceptional 
 Recommendation: Double down on investment and logistical support in these highly efficient, second-tier cities to sustain hyper-profitable growth.
 
 
-<img width="1009" height="403" alt="Screenshot 2025-11-03 173629" src="https://github.com/user-attachments/assets/56b879fc-a8d5-4579-acf8-c3e4d38dc73e" />
+<img width="1392" height="460" alt="Screenshot 2025-11-04 160206" src="https://github.com/user-attachments/assets/b32613a7-ebcb-4d15-8b24-3385bda3c0ff" />
+
 
 
 -----------------------------------------
@@ -102,7 +104,8 @@ Customer Loyalty: A select group of customers contribute a vital, marginal amoun
 Recommendation: A formal Customer Loyalty Program should be established to recognize and incentivize these top global patrons.
 
 
-<img width="498" height="342" alt="image" src="https://github.com/user-attachments/assets/a34c755c-5c2f-41e4-81b4-1abd496338b0" />
+<img width="1014" height="701" alt="Screenshot 2025-11-04 155841" src="https://github.com/user-attachments/assets/e9853a65-56cf-485b-82f4-b49ee0085884" />
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 The interactive PowerBI dashboard with much more details in depth can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
