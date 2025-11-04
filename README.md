@@ -108,7 +108,7 @@ Recommendation: A formal Customer Loyalty Program should be established to recog
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-The interactive PowerBI dashboard with much more details in depth can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
+Live Deployment: The final dashboard is deployed to the Power BI Service. [Click to Interact with the Live Report](https://app.powerbi.com/view?r=eyJrIjoiZmNjNDc2YjMtY2M5Yi00NzgyLWI1MjEtNmViNzFhMjkwMmZkIiwidCI6IjAwMDdhODA0LWMxMWEtNGYyOS04ZDAyLTE5MjQ1M2E0N2Y4MCJ9)
 
 
 ------------------------------------------------------------------------------
@@ -167,7 +167,10 @@ The SQL table set up (Data Integrety ) can be downloaded  [here](https://github.
 
 The file of 13 Business queries can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_queries.sql)
 
-The interactive Dashboard with complete story can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
+The LIVE, Interactive PowerBI Dashboard (Final Deployment) can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiZmNjNDc2YjMtY2M5Yi00NzgyLWI1MjEtNmViNzFhMjkwMmZkIiwidCI6IjAwMDdhODA0LWMxMWEtNGYyOS04ZDAyLTE5MjQ1M2E0N2Y4MCJ9)
+
+The Power BI Model File (.pbix) for technical audit of DAX and data model can be downloaded [here](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix)
+
 
 ----------------------------------------------------------------------------
 To run this pipeline and replicate the analysis locally, follow these steps:
@@ -177,13 +180,19 @@ To run this pipeline and replicate the analysis locally, follow these steps:
 
 Create a MySQL database named pipeline. Run [SQL table setup file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_setup.sql) file to create the necessary dimension and fact tables.
 
-ETL Process: 
+#### ETL Process: 
 
 Open the [Pandas file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_pipeline_pandas.ipynb) Update the database connection string (username/password/host), and run the cells to clean the data and load it into the MySQL tables.
 
 #### Run Analysis:
 
 Execute the queries in the [sql queries file](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_SQL_queries.sql) against your populated database.
+
+#### Visualization & Modelling Audit: 
+
+Open the [Power BI Model File](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix). The dashboard will load instantly using cached data. This allows you to immediately audit the final report.
+
+QUICK AUDIT: For immediate validation of the final product and key insights, access the LIVE, [Interactive Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiZmNjNDc2YjMtY2M5Yi00NzgyLWI1MjEtNmViNzFhMjkwMmZkIiwidCI6IjAwMDdhODA0LWMxMWEtNGYyOS04ZDAyLTE5MjQ1M2E0N2Y4MCJ9)
 
 About the Author
 ----------------
