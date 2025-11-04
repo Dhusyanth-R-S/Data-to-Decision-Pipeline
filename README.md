@@ -192,7 +192,7 @@ Execute the queries in the [sql queries file](https://github.com/Dhusyanth-R-S/D
 
 Open the [Power BI Model File](https://github.com/Dhusyanth-R-S/Data-to-Decision-Pipeline/blob/main/Data_to_Decision_Pipeline_PowerBI.pbix). The dashboard will load instantly using cached data. This allows you to immediately audit the final report.
 
-QUICK AUDIT: For immediate validation of the final product and key insights, access the LIVE, [Interactive Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiZmNjNDc2YjMtY2M5Yi00NzgyLWI1MjEtNmViNzFhMjkwMmZkIiwidCI6IjAwMDdhODA0LWMxMWEtNGYyOS04ZDAyLTE5MjQ1M2E0N2Y4MCJ9)
+QUICK AUDIT: For immediate validation of the final product and key insights, access the LIVE, [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmNjNDc2YjMtY2M5Yi00NzgyLWI1MjEtNmViNzFhMjkwMmZkIiwidCI6IjAwMDdhODA0LWMxMWEtNGYyOS04ZDAyLTE5MjQ1M2E0N2Y4MCJ9)
 
 About the Author
 ----------------
