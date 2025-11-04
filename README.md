@@ -1,7 +1,7 @@
 # The Data-to-Decision Pipeline: Transforming Global Superstore's Transactions
 
 
-## Project Background: The Data-to-Decision Pipeline
+## Project Background: 
 
 Global Superstore is a fictional e-commerce company with vast global transactional data. This project thoroughly analyzes and synthesizes the data to uncover critical insights that will drive commercial success, optimize operational efficiency, and maximize profitability.
 
